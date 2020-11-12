@@ -1,0 +1,11 @@
+C:\Users\hamza\source\repos\flax\bin\Release\flax.exe.config
+C:\Users\hamza\source\repos\flax\bin\Release\flax.exe
+C:\Users\hamza\source\repos\flax\bin\Release\flax.pdb
+C:\Users\hamza\source\repos\flax\obj\Release\flax.Properties.Resources.resources
+C:\Users\hamza\source\repos\flax\obj\Release\flax.csproj.GenerateResource.cache
+C:\Users\hamza\source\repos\flax\obj\Release\flax.csproj.CoreCompileInputs.cache
+C:\Users\hamza\source\repos\flax\obj\Release\flax.exe
+C:\Users\hamza\source\repos\flax\obj\Release\flax.pdb
+C:\Users\hamza\source\repos\flax\obj\Release\flax.csprojAssemblyReference.cache
+C:\Users\hamza\source\repos\flax\obj\Release\flax.flaxMain.resources
+C:\Users\hamza\source\repos\flax\obj\Release\flax.Hakkinda.resources

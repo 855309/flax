@@ -1,0 +1,9 @@
+C:\Users\hamza\source\repos\flax\bin\Debug\flax.exe.config
+C:\Users\hamza\source\repos\flax\bin\Debug\flax.exe
+C:\Users\hamza\source\repos\flax\bin\Debug\flax.pdb
+C:\Users\hamza\source\repos\flax\obj\Debug\flax.Form1.resources
+C:\Users\hamza\source\repos\flax\obj\Debug\flax.Properties.Resources.resources
+C:\Users\hamza\source\repos\flax\obj\Debug\flax.csproj.GenerateResource.cache
+C:\Users\hamza\source\repos\flax\obj\Debug\flax.csproj.CoreCompileInputs.cache
+C:\Users\hamza\source\repos\flax\obj\Debug\flax.exe
+C:\Users\hamza\source\repos\flax\obj\Debug\flax.pdb
